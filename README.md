@@ -1,2 +1,3 @@
-# robotics
-Nimisha put Rebellious Robot's info here 
+# Rebellious Robots
+
+Put your robot info here 
